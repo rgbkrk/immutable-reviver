@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/rgbkrk/immutable-reviver/issues"
   },
-  "homepage": "https://github.com/rgbkrk/immutable-reviver#readme"
+  "homepage": "https://github.com/rgbkrk/immutable-reviver#readme",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
 }
