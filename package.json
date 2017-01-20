@@ -1,0 +1,26 @@
+{
+  "name": "immutable-reviver",
+  "version": "1.0.0",
+  "description": "JSON.parse reviver that creates Immutable.JS objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/immutable-reviver.git"
+  },
+  "keywords": [
+    "immutable",
+    "reviver",
+    "immutable.js",
+    "JSON.parse",
+    "JSON"
+  ],
+  "author": "Kyle Kelley",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rgbkrk/immutable-reviver/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/immutable-reviver#readme"
+}
