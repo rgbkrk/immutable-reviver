@@ -23,3 +23,7 @@ Actually, this is silly. You could just:
 ```js
 JSON.parse(raw, (key, v) => Immutable.fromJS(v))
 ```
+
+## Addendum again
+
+Looks like using `fromJS` for revival is not nearly as fast as the reviver here that relies on JSON structure because fromJS is always recursive.
